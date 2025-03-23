@@ -1,3 +1,7 @@
+# Basic ToDo List project made up of React JS
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
